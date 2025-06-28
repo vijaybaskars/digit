@@ -4,4 +4,6 @@ pip install -r requirements.txt
 python plot_digits_classification.py
 ```
 
-Created branch1
+Created branch
+
+Refactored code
